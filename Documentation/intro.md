@@ -8,6 +8,8 @@ This API provides a comprehensive suite of endpoints for managing business opera
 - **API Version**: v1
 - **Default Content-Type**: `application/json`
 
+## Access to swagger
+- **API Swagger URL**: `http://89.216.106.5:5095/swagger`
 
 ## Available API Modules
 The API consists of four main modules:
